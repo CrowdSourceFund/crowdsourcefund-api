@@ -1,2 +1,2 @@
 # crowdsourcefund-api
-Backend service for CrowdSourceFund website
+API for CrowdSourceFund website
